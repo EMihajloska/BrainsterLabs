@@ -12,6 +12,7 @@ Index page consists of several sections.
 ● Marketing Academy, Programming Academy, Design Academy, Academy for data-science following different links;
 
 ● "Employ our students" button that redirects to a new page Job.
+
 2. Banner with image and text
 
 3. Filters: 3 buttons for the various academies that aim to filter cards by academy. Pagination is included.
